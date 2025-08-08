@@ -1,0 +1,11 @@
+/* Main Stylesheet */
+body {
+  margin: 0;
+  font-family: Arial, sans-serif;
+  background-color: #f9f7f4;
+  color: #38373b;
+}
+
+h1, h2, h3, h4, h5, h6 {
+  color: #8f77ab;
+}
